@@ -33,5 +33,4 @@ I enjoy learning new technologies, solving problems, and building practical proj
 - Build and document meaningful projects
 
 ### 📫 Connect With Me
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn:https://www.linkedin.com/in/jaswanth-raj-4744b6393?utm_source=share_via&utm_content=profile&utm_medium=member_android
